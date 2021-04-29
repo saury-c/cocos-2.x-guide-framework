@@ -2,6 +2,10 @@
 
 https://saury-c.github.io/CocosGuide/build/web-mobile/index.html
 
+# 项目地址
+
+https://github.com/saury-c/CocosGuide
+
 
 # 使用说明
 
