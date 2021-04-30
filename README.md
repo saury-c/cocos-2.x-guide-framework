@@ -142,3 +142,7 @@ cc.Mask.prototype["_hitTest"] = function () {
 - 多种手指动画
 
 - 群按钮点击 - 可以用事件实现
+
+- 拖动引导方式
+
+- 画线引导方式
