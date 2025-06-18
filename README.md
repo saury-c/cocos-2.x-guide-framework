@@ -1,6 +1,6 @@
 # 演示地址
 
-https://saury-c.github.io/CocosGuide/build/web-mobile/index.html
+https://saury-c.github.io/cocos-2.x-guide-framework/build/web-mobile/index.html
 
 # 项目地址
 
